@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/queue-store-codec",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Lossless shared durable queue job and value serialization.",
   "keywords": [
     "codec",
